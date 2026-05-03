@@ -1,0 +1,17 @@
+id_cat_profil;profil_tarif;type_tarif
+CP001;Plein tarif;INDIVIDUEL
+CP002;Moins de 30 ans + plus de 28 ans;INDIVIDUEL
+CP003;Moins de 28 ans;INDIVIDUEL
+CP004;Demandeurs d'emploi;INDIVIDUEL
+CP005;Minima Sociaux;INDIVIDUEL
+CP006;Personne en situation de handicap adulte;INDIVIDUEL
+CP007;Personne en situation de handicap moins de 28 ans;INDIVIDUEL
+CP008;Accompagnateur, accompagnatrice sous condition;INDIVIDUEL
+CP009;Carte Adulte;ABONNEMENT
+CP010;Carte Jeune / Tarif moins de 28 ans;ABONNEMENT
+CP011;Carte Famille / Tarif adulte;ABONNEMENT
+CP012;Carte Famille / Tarif moins de 28 ans;ABONNEMENT
+CP013;Collectivités;GROUPE
+CP014;Enseignement (groupes scolaires);GROUPE
+CP015;Formations (groupes enseignants);GROUPE
+CP016;Champ médico-social;GROUPE

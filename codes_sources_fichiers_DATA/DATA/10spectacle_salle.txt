@@ -1,0 +1,28 @@
+nom_salle;nom_spectacle
+13e art;HÉCUBE, PAS HÉCUBE
+Grande Halle de La Villette;LE TARTUFFE OU L’HYPOCRITE
+Odéon Théâtre de l’Europe;HAMLET
+Petit Saint-Martin;CONTRE
+Petit Saint-Martin;LES HÉROS NE DORMENT JAMAIS
+Petit Saint-Martin;SÉISME
+Salle Richelieu;L’ÉCOLE DE DANSE
+Salle Richelieu;LE MISANTHROPE
+Salle Richelieu;LES FOURBERIES DE SCAPIN
+Salle Richelieu;UNE MOUETTE
+Studio-Théâtre;ART MAJEUR
+Studio-Théâtre;BESTIOLES
+Studio-Théâtre;DÉSHONORÉE UN CRIME D’HONNEUR EN CALABRE
+Studio-Théâtre;ÉTINCELLES
+Studio-Théâtre;LUMIÈRES, LUMIÈRES, LUMIÈRES
+Studio-Théâtre;PINOCCHIO CRÉATURE
+Studio-Théâtre;POUR EN FINIR AVEC LE FOOTBALL
+Théâtre de la Porte Saint-Martin;LE BOURGEOIS GENTILHOMME
+Théâtre de la Porte Saint-Martin;LE CID
+Théâtre de la Porte Saint-Martin;LE MALADE IMAGINAIRE
+Théâtre du Rond-Point;LES FEMMES SAVANTES
+Théâtre du Vieux-Colombier;CASSE-NOISETTE OU LE ROYAUME DE LA NUIT
+Théâtre du Vieux-Colombier;L’ORDRE DU JOUR
+Théâtre du Vieux-Colombier;LE MARIAGE FORCÉ
+Théâtre du Vieux-Colombier;PENTHÉSILÉE
+Théâtre du Vieux-Colombier;SIX PERSONNAGES EN QUÊTE D’AUTEUR
+Théâtre Nanterre-Amandiers;LA PUCE À L’OREILLE

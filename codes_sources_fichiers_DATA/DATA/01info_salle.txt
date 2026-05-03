@@ -1,0 +1,11 @@
+id_salle;nom_salle;jauge_total_salle
+SCSR;Salle Richelieu;879
+STVC;Théâtre du Vieux-Colombier;300
+SCST;Studio-Théâtre;136
+STSM;Théâtre de la Porte Saint-Martin;964
+SPSM;Petit Saint-Martin;198
+STPP;Théâtre du Rond-Point;720
+SODE;Odéon Théâtre de l’Europe;770
+STNA;Théâtre Nanterre-Amandiers;782
+SATR;13e art;858
+SGHV;Grande Halle de La Villette;1400

@@ -1,0 +1,11 @@
+libelle_horaire;id_cat_horaire
+lundi 20h30;CH002
+mardi 20h30;CH002
+mercredi 20h30;CH002
+jeudi 20h30;CH002
+dimanche 14h00;CH002
+vendredi 20h30;CH003
+samedi 20h30;CH003
+samedi 14h00;CH004
+dimanche 20h30;CH004
+Autres;CH001

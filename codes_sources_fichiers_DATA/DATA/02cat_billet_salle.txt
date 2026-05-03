@@ -1,0 +1,24 @@
+id_salle;nom_salle;id_categorie_billet;categorie_billet;jauge_categorie_billet
+SCSR;Salle Richelieu;SCSR01;A;338
+SCSR;Salle Richelieu;SCSR02;B;191
+SCSR;Salle Richelieu;SCSR03;C;262
+SCSR;Salle Richelieu;SCSR04;Petit bureau;88
+STVC;Théâtre du Vieux-Colombier;STVC01;Tarif plein;255
+STVC;Théâtre du Vieux-Colombier;STVC02;Strapontin;45
+SCST;Studio-Théâtre;SCST01;Non différencié;136
+STSM;Théâtre de la Porte Saint-Martin;STSM01;A;538
+STSM;Théâtre de la Porte Saint-Martin;STSM02;B;122
+STSM;Théâtre de la Porte Saint-Martin;STSM03;C;216
+STSM;Théâtre de la Porte Saint-Martin;STSM04;D;88
+SPSM;Petit Saint-Martin;SPSM01;Non différencié;198
+STPP;Théâtre du Rond-Point;STPP01;Non différencié;720
+SODE;Odéon Théâtre de l’Europe;SODE01;1;300
+SODE;Odéon Théâtre de l’Europe;SODE02;2;170
+SODE;Odéon Théâtre de l’Europe;SODE03;3;200
+SODE;Odéon Théâtre de l’Europe;SODE04;4;100
+STNA;Théâtre Nanterre-Amandiers;STNA01;Non différencié;782
+SATR;13e art;SATR01;A;358
+SATR;13e art;SATR02;B;180
+SATR;13e art;SATR03;C;320
+SGHV;Grande Halle de La Villette;SGHV01;1;880
+SGHV;Grande Halle de La Villette;SGHV02;2;520

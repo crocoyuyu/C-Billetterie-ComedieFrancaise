@@ -1,0 +1,22 @@
+id_abonnes;id_compte;nom_abonnes;prenom_abonnes;ddn_abonnes;mail_abonnes;ville_abonnes;cp_abonnes;numtel_abonnes;id_cat_abonne;actif
+AA001;;Hilaire;Gaëlle;1963-10-01;gaelle4@hotmail.fr;Massy;91300;0624210249;AA;1
+AA002;;Mrad;Selim;1970-12-15;selimmrad@hotmail.fr;Paris;75011;0771756551;AA;1
+AA003;;Wang;Qian;1990-06-14;qian.wang4@free.fr;Paris;75012;0780715451;AA;1
+AA004;;Musina;Dina;1994-09-05;dmusina@free.fr;Villejuif;94800;0638597703;AA;1
+AA005;;Saad;Valentina;1985-04-22;valentina.saad@free.fr;Paris;75014;0171093248;AA;1
+AA006;;Bardet;Charlotte;1966-02-27;charlotte.bardet11@outlook.fr;Paris;75015;0117127484;AA;1
+AA007;jeanmichel_pise;Lery;Jean-Michel;1974-11-14;jeanmichel.lery@gmail.com;Bois-Colombes;92270;0139636057;AA;1
+AA008;;Faure;Théo;1959-08-25;theo.faure15@gmail.com;Paris;75019;0628951718;AA;1
+AA009;;Melite;Marlo;1955-01-07;melitepro@orange.fr;Ivry-sur-Seine;94200;0700504556;AA;1
+AJ001;;Ward;Joyce ;2003-01-11;jward@yahoo.fr;Paris;75005;0740344713;AJ;1
+AJ002;;Poiret;Lisa;2004-04-03;lisa.poiret@outlook.fr;Paris;75009;0164887719;AJ;1
+AJ003;;Racine;Eva;2005-10-08;eva.racine6@free.fr;Paris;75010;0639904902;AJ;1
+AJ004;;Brun;Lucas;2004-02-14;lucas12@hotmail.fr;Bobigny;93000;0739821465;AJ;1
+AJ005;;Ferhaoui;Melissa;2003-08-07;melissa.f@yahoo.fr;Paris;75020;0121745961;AJ;1
+AJ006;;Lorrain;Capucine;2008-12-13;magicap@free.fr;Chaville;92370;0775869261;AJ;1
+AJ007;;Tran;Duc;2004-05-23;ashtran13@free.fr;Paris;75017;0197278755;AJ;1
+AJ008;;Ngaburu;Keren;2003-03-16;keren.n@outlook.fr;Paris;75001;0178091343;AJ;1
+AJ009;;Benedetti;Enrico;2005-05-21;enrico.benedetti19@free.fr;Paris;75005;0122219693;AJ;1
+AF001;;Mazat;Muriel;1976-04-24;muriel.mt@free.fr;Montigny-le-Bretonneux;78180;0799938677;AF;1
+AF002;;Fleuret;Nathalie;1996-07-04;n.fleuret@free.fr;Créteil;94000;0191334123;AF;1
+AA010;;Do;Hang;1988-11-11;hang.do@gmail.com;Paris;75013;0658587533;AA;1

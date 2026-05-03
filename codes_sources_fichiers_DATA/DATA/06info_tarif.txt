@@ -1,0 +1,533 @@
+id_categorie_billet;id_salle;nom_salle;categorie_billet;jauge_categorie_billet;type_tarif;id_cat_profil;id_cat_horaire;profil_tarif;horaire_tarif;tarif_brut
+SCSR01;SCSR;Salle Richelieu;A;338;INDIVIDUEL;CP001;CH002;Plein tarif;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;44
+SCSR01;SCSR;Salle Richelieu;A;338;INDIVIDUEL;CP001;CH003;Plein tarif;Vendredi & samedi à 20h30;48
+SCSR01;SCSR;Salle Richelieu;A;338;INDIVIDUEL;CP001;CH004;Plein tarif;Samedi 14h & dimanche à 20h30;40
+SCSR01;SCSR;Salle Richelieu;A;338;INDIVIDUEL;CP002;CH002;Moins de 30 ans + plus de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;44
+SCSR01;SCSR;Salle Richelieu;A;338;INDIVIDUEL;CP002;CH003;Moins de 30 ans + plus de 28 ans;Vendredi & samedi à 20h30;48
+SCSR01;SCSR;Salle Richelieu;A;338;INDIVIDUEL;CP002;CH004;Moins de 30 ans + plus de 28 ans;Samedi 14h & dimanche à 20h30;40
+SCSR01;SCSR;Salle Richelieu;A;338;INDIVIDUEL;CP003;CH002;Moins de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;22
+SCSR01;SCSR;Salle Richelieu;A;338;INDIVIDUEL;CP003;CH003;Moins de 28 ans;Vendredi & samedi à 20h30;24
+SCSR01;SCSR;Salle Richelieu;A;338;INDIVIDUEL;CP003;CH004;Moins de 28 ans;Samedi 14h & dimanche à 20h30;24
+SCSR01;SCSR;Salle Richelieu;A;338;INDIVIDUEL;CP004;CH002;Demandeurs d'emploi;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;24
+SCSR01;SCSR;Salle Richelieu;A;338;INDIVIDUEL;CP004;CH003;Demandeurs d'emploi;Vendredi & samedi à 20h30;26
+SCSR01;SCSR;Salle Richelieu;A;338;INDIVIDUEL;CP004;CH004;Demandeurs d'emploi;Samedi 14h & dimanche à 20h30;22
+SCSR01;SCSR;Salle Richelieu;A;338;INDIVIDUEL;CP005;CH001;Minima Sociaux;Horaire Indifférencié;16
+SCSR01;SCSR;Salle Richelieu;A;338;INDIVIDUEL;CP006;CH001;Personne en situation de handicap adulte;Horaire Indifférencié;30
+SCSR01;SCSR;Salle Richelieu;A;338;INDIVIDUEL;CP007;CH001;Personne en situation de handicap moins de 28 ans;Horaire Indifférencié;22
+SCSR01;SCSR;Salle Richelieu;A;338;INDIVIDUEL;CP008;CH001;Accompagnateur, accompagnatrice sous condition;Horaire Indifférencié;0
+SCSR01;SCSR;Salle Richelieu;A;338;ABONNEMENT;CP009;CH001;Carte Adulte;Horaire Indifférencié;40
+SCSR01;SCSR;Salle Richelieu;A;338;ABONNEMENT;CP010;CH001;Carte Jeune / Tarif moins de 28 ans;Horaire Indifférencié;20
+SCSR01;SCSR;Salle Richelieu;A;338;ABONNEMENT;CP011;CH001;Carte Famille / Tarif adulte;Horaire Indifférencié;40
+SCSR01;SCSR;Salle Richelieu;A;338;ABONNEMENT;CP012;CH001;Carte Famille / Tarif moins de 28 ans;Horaire Indifférencié;20
+SCSR01;SCSR;Salle Richelieu;A;338;GROUPE;CP013;CH002;Collectivités;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;42
+SCSR01;SCSR;Salle Richelieu;A;338;GROUPE;CP013;CH003;Collectivités;Vendredi & samedi à 20h30;48
+SCSR01;SCSR;Salle Richelieu;A;338;GROUPE;CP013;CH004;Collectivités;Samedi 14h & dimanche à 20h30;40
+SCSR02;SCSR;Salle Richelieu;B;191;INDIVIDUEL;CP001;CH002;Plein tarif;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;32
+SCSR02;SCSR;Salle Richelieu;B;191;INDIVIDUEL;CP001;CH003;Plein tarif;Vendredi & samedi à 20h30;34
+SCSR02;SCSR;Salle Richelieu;B;191;INDIVIDUEL;CP001;CH004;Plein tarif;Samedi 14h & dimanche à 20h30;30
+SCSR02;SCSR;Salle Richelieu;B;191;INDIVIDUEL;CP002;CH002;Moins de 30 ans + plus de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;32
+SCSR02;SCSR;Salle Richelieu;B;191;INDIVIDUEL;CP002;CH003;Moins de 30 ans + plus de 28 ans;Vendredi & samedi à 20h30;34
+SCSR02;SCSR;Salle Richelieu;B;191;INDIVIDUEL;CP002;CH004;Moins de 30 ans + plus de 28 ans;Samedi 14h & dimanche à 20h30;30
+SCSR02;SCSR;Salle Richelieu;B;191;INDIVIDUEL;CP003;CH002;Moins de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;16
+SCSR02;SCSR;Salle Richelieu;B;191;INDIVIDUEL;CP003;CH003;Moins de 28 ans;Vendredi & samedi à 20h30;17
+SCSR02;SCSR;Salle Richelieu;B;191;INDIVIDUEL;CP003;CH004;Moins de 28 ans;Samedi 14h & dimanche à 20h30;15
+SCSR02;SCSR;Salle Richelieu;B;191;INDIVIDUEL;CP004;CH002;Demandeurs d'emploi;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;18
+SCSR02;SCSR;Salle Richelieu;B;191;INDIVIDUEL;CP004;CH003;Demandeurs d'emploi;Vendredi & samedi à 20h30;19
+SCSR02;SCSR;Salle Richelieu;B;191;INDIVIDUEL;CP004;CH004;Demandeurs d'emploi;Samedi 14h & dimanche à 20h30;17
+SCSR02;SCSR;Salle Richelieu;B;191;INDIVIDUEL;CP005;CH001;Minima Sociaux;Horaire Indifférencié;12
+SCSR02;SCSR;Salle Richelieu;B;191;INDIVIDUEL;CP006;CH001;Personne en situation de handicap adulte;Horaire Indifférencié;22
+SCSR02;SCSR;Salle Richelieu;B;191;INDIVIDUEL;CP007;CH001;Personne en situation de handicap moins de 28 ans;Horaire Indifférencié;16
+SCSR02;SCSR;Salle Richelieu;B;191;INDIVIDUEL;CP008;CH001;Accompagnateur, accompagnatrice sous condition;Horaire Indifférencié;0
+SCSR02;SCSR;Salle Richelieu;B;191;ABONNEMENT;CP009;CH001;Carte Adulte;Horaire Indifférencié;30
+SCSR02;SCSR;Salle Richelieu;B;191;ABONNEMENT;CP010;CH001;Carte Jeune / Tarif moins de 28 ans;Horaire Indifférencié;15
+SCSR02;SCSR;Salle Richelieu;B;191;ABONNEMENT;CP011;CH001;Carte Famille / Tarif adulte;Horaire Indifférencié;30
+SCSR02;SCSR;Salle Richelieu;B;191;ABONNEMENT;CP012;CH001;Carte Famille / Tarif moins de 28 ans;Horaire Indifférencié;15
+SCSR02;SCSR;Salle Richelieu;B;191;GROUPE;CP013;CH002;Collectivités;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;30
+SCSR02;SCSR;Salle Richelieu;B;191;GROUPE;CP013;CH003;Collectivités;Vendredi & samedi à 20h30;34
+SCSR02;SCSR;Salle Richelieu;B;191;GROUPE;CP013;CH004;Collectivités;Samedi 14h & dimanche à 20h30;30
+SCSR02;SCSR;Salle Richelieu;B;191;GROUPE;CP014;CH001;Enseignement (groupes scolaires);Horaire Indifférencié;15
+SCSR03;SCSR;Salle Richelieu;C;262;INDIVIDUEL;CP001;CH002;Plein tarif;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;16
+SCSR03;SCSR;Salle Richelieu;C;262;INDIVIDUEL;CP001;CH003;Plein tarif;Vendredi & samedi à 20h30;18
+SCSR03;SCSR;Salle Richelieu;C;262;INDIVIDUEL;CP001;CH004;Plein tarif;Samedi 14h & dimanche à 20h30;15
+SCSR03;SCSR;Salle Richelieu;C;262;INDIVIDUEL;CP002;CH002;Moins de 30 ans + plus de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;16
+SCSR03;SCSR;Salle Richelieu;C;262;INDIVIDUEL;CP002;CH003;Moins de 30 ans + plus de 28 ans;Vendredi & samedi à 20h30;18
+SCSR03;SCSR;Salle Richelieu;C;262;INDIVIDUEL;CP002;CH004;Moins de 30 ans + plus de 28 ans;Samedi 14h & dimanche à 20h30;15
+SCSR03;SCSR;Salle Richelieu;C;262;INDIVIDUEL;CP003;CH002;Moins de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;10
+SCSR03;SCSR;Salle Richelieu;C;262;INDIVIDUEL;CP003;CH003;Moins de 28 ans;Vendredi & samedi à 20h30;10
+SCSR03;SCSR;Salle Richelieu;C;262;INDIVIDUEL;CP003;CH004;Moins de 28 ans;Samedi 14h & dimanche à 20h30;10
+SCSR03;SCSR;Salle Richelieu;C;262;INDIVIDUEL;CP004;CH002;Demandeurs d'emploi;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;11
+SCSR03;SCSR;Salle Richelieu;C;262;INDIVIDUEL;CP004;CH003;Demandeurs d'emploi;Vendredi & samedi à 20h30;11
+SCSR03;SCSR;Salle Richelieu;C;262;INDIVIDUEL;CP004;CH004;Demandeurs d'emploi;Samedi 14h & dimanche à 20h30;11
+SCSR03;SCSR;Salle Richelieu;C;262;INDIVIDUEL;CP005;CH001;Minima Sociaux;Horaire Indifférencié;6
+SCSR03;SCSR;Salle Richelieu;C;262;INDIVIDUEL;CP006;CH001;Personne en situation de handicap adulte;Horaire Indifférencié;12
+SCSR03;SCSR;Salle Richelieu;C;262;INDIVIDUEL;CP007;CH001;Personne en situation de handicap moins de 28 ans;Horaire Indifférencié;10
+SCSR03;SCSR;Salle Richelieu;C;262;INDIVIDUEL;CP008;CH001;Accompagnateur, accompagnatrice sous condition;Horaire Indifférencié;0
+SCSR03;SCSR;Salle Richelieu;C;262;ABONNEMENT;CP009;CH001;Carte Adulte;Horaire Indifférencié;15
+SCSR03;SCSR;Salle Richelieu;C;262;ABONNEMENT;CP010;CH001;Carte Jeune / Tarif moins de 28 ans;Horaire Indifférencié;10
+SCSR03;SCSR;Salle Richelieu;C;262;ABONNEMENT;CP011;CH001;Carte Famille / Tarif adulte;Horaire Indifférencié;15
+SCSR03;SCSR;Salle Richelieu;C;262;ABONNEMENT;CP012;CH001;Carte Famille / Tarif moins de 28 ans;Horaire Indifférencié;10
+SCSR03;SCSR;Salle Richelieu;C;262;GROUPE;CP013;CH002;Collectivités;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;15
+SCSR03;SCSR;Salle Richelieu;C;262;GROUPE;CP013;CH003;Collectivités;Vendredi & samedi à 20h30;18
+SCSR03;SCSR;Salle Richelieu;C;262;GROUPE;CP013;CH004;Collectivités;Samedi 14h & dimanche à 20h30;15
+SCSR03;SCSR;Salle Richelieu;C;262;GROUPE;CP014;CH001;Enseignement (groupes scolaires);Horaire Indifférencié;10
+SCSR03;SCSR;Salle Richelieu;C;262;GROUPE;CP015;CH001;Formations (groupes enseignants);Horaire Indifférencié;13
+SCSR03;SCSR;Salle Richelieu;C;262;GROUPE;CP016;CH001;Champ médico-social;Horaire Indifférencié;6
+SCSR04;SCSR;Salle Richelieu;Petit bureau;88;INDIVIDUEL;CP001;CH002;Plein tarif;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;5
+SCSR04;SCSR;Salle Richelieu;Petit bureau;88;INDIVIDUEL;CP001;CH003;Plein tarif;Vendredi & samedi à 20h30;5
+SCSR04;SCSR;Salle Richelieu;Petit bureau;88;INDIVIDUEL;CP001;CH004;Plein tarif;Samedi 14h & dimanche à 20h30;5
+SCSR04;SCSR;Salle Richelieu;Petit bureau;88;INDIVIDUEL;CP002;CH002;Moins de 30 ans + plus de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;5
+SCSR04;SCSR;Salle Richelieu;Petit bureau;88;INDIVIDUEL;CP002;CH003;Moins de 30 ans + plus de 28 ans;Vendredi & samedi à 20h30;5
+SCSR04;SCSR;Salle Richelieu;Petit bureau;88;INDIVIDUEL;CP002;CH004;Moins de 30 ans + plus de 28 ans;Samedi 14h & dimanche à 20h30;5
+SCSR04;SCSR;Salle Richelieu;Petit bureau;88;INDIVIDUEL;CP003;CH002;Moins de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;5
+SCSR04;SCSR;Salle Richelieu;Petit bureau;88;INDIVIDUEL;CP003;CH003;Moins de 28 ans;Vendredi & samedi à 20h30;5
+SCSR04;SCSR;Salle Richelieu;Petit bureau;88;INDIVIDUEL;CP003;CH004;Moins de 28 ans;Samedi 14h & dimanche à 20h30;5
+SCSR04;SCSR;Salle Richelieu;Petit bureau;88;INDIVIDUEL;CP004;CH002;Demandeurs d'emploi;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;5
+SCSR04;SCSR;Salle Richelieu;Petit bureau;88;INDIVIDUEL;CP004;CH003;Demandeurs d'emploi;Vendredi & samedi à 20h30;5
+SCSR04;SCSR;Salle Richelieu;Petit bureau;88;INDIVIDUEL;CP004;CH004;Demandeurs d'emploi;Samedi 14h & dimanche à 20h30;5
+SCSR04;SCSR;Salle Richelieu;Petit bureau;88;INDIVIDUEL;CP005;CH001;Minima Sociaux;Horaire Indifférencié;5
+SCSR04;SCSR;Salle Richelieu;Petit bureau;88;INDIVIDUEL;CP006;CH001;Personne en situation de handicap adulte;Horaire Indifférencié;5
+SCSR04;SCSR;Salle Richelieu;Petit bureau;88;INDIVIDUEL;CP007;CH001;Personne en situation de handicap moins de 28 ans;Horaire Indifférencié;5
+SCSR04;SCSR;Salle Richelieu;Petit bureau;88;INDIVIDUEL;CP008;CH001;Accompagnateur, accompagnatrice sous condition;Horaire Indifférencié;0
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;INDIVIDUEL;CP001;CH002;Plein tarif;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;34
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;INDIVIDUEL;CP001;CH003;Plein tarif;Vendredi & samedi à 20h30;34
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;INDIVIDUEL;CP001;CH004;Plein tarif;Samedi 14h & dimanche à 20h30;34
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;INDIVIDUEL;CP002;CH002;Moins de 30 ans + plus de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;34
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;INDIVIDUEL;CP002;CH003;Moins de 30 ans + plus de 28 ans;Vendredi & samedi à 20h30;34
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;INDIVIDUEL;CP002;CH004;Moins de 30 ans + plus de 28 ans;Samedi 14h & dimanche à 20h30;34
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;INDIVIDUEL;CP003;CH002;Moins de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;17
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;INDIVIDUEL;CP003;CH003;Moins de 28 ans;Vendredi & samedi à 20h30;17
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;INDIVIDUEL;CP003;CH004;Moins de 28 ans;Samedi 14h & dimanche à 20h30;17
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;INDIVIDUEL;CP004;CH002;Demandeurs d'emploi;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;17
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;INDIVIDUEL;CP004;CH003;Demandeurs d'emploi;Vendredi & samedi à 20h30;17
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;INDIVIDUEL;CP004;CH004;Demandeurs d'emploi;Samedi 14h & dimanche à 20h30;17
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;INDIVIDUEL;CP005;CH001;Minima Sociaux;Horaire Indifférencié;12
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;INDIVIDUEL;CP006;CH001;Personne en situation de handicap adulte;Horaire Indifférencié;22
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;INDIVIDUEL;CP007;CH001;Personne en situation de handicap moins de 28 ans;Horaire Indifférencié;12
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;INDIVIDUEL;CP008;CH001;Accompagnateur, accompagnatrice sous condition;Horaire Indifférencié;0
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;ABONNEMENT;CP009;CH001;Carte Adulte;Horaire Indifférencié;30
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;ABONNEMENT;CP010;CH001;Carte Jeune / Tarif moins de 28 ans;Horaire Indifférencié;15
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;ABONNEMENT;CP011;CH001;Carte Famille / Tarif adulte;Horaire Indifférencié;30
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;ABONNEMENT;CP012;CH001;Carte Famille / Tarif moins de 28 ans;Horaire Indifférencié;15
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;GROUPE;CP013;CH002;Collectivités;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;32
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;GROUPE;CP013;CH003;Collectivités;Vendredi & samedi à 20h30;32
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;GROUPE;CP013;CH004;Collectivités;Samedi 14h & dimanche à 20h30;32
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;GROUPE;CP014;CH001;Enseignement (groupes scolaires);Horaire Indifférencié;10
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;GROUPE;CP015;CH001;Formations (groupes enseignants);Horaire Indifférencié;13
+STVC01;STVC;Théâtre du Vieux-Colombier;Tarif plein;255;GROUPE;CP016;CH001;Champ médico-social;Horaire Indifférencié;6
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;INDIVIDUEL;CP001;CH002;Plein tarif;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;30
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;INDIVIDUEL;CP001;CH003;Plein tarif;Vendredi & samedi à 20h30;30
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;INDIVIDUEL;CP001;CH004;Plein tarif;Samedi 14h & dimanche à 20h30;30
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;INDIVIDUEL;CP002;CH002;Moins de 30 ans + plus de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;30
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;INDIVIDUEL;CP002;CH003;Moins de 30 ans + plus de 28 ans;Vendredi & samedi à 20h30;30
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;INDIVIDUEL;CP002;CH004;Moins de 30 ans + plus de 28 ans;Samedi 14h & dimanche à 20h30;30
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;INDIVIDUEL;CP003;CH002;Moins de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;17
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;INDIVIDUEL;CP003;CH003;Moins de 28 ans;Vendredi & samedi à 20h30;17
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;INDIVIDUEL;CP003;CH004;Moins de 28 ans;Samedi 14h & dimanche à 20h30;17
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;INDIVIDUEL;CP004;CH002;Demandeurs d'emploi;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;17
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;INDIVIDUEL;CP004;CH003;Demandeurs d'emploi;Vendredi & samedi à 20h30;17
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;INDIVIDUEL;CP004;CH004;Demandeurs d'emploi;Samedi 14h & dimanche à 20h30;17
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;INDIVIDUEL;CP005;CH001;Minima Sociaux;Horaire Indifférencié;12
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;INDIVIDUEL;CP006;CH001;Personne en situation de handicap adulte;Horaire Indifférencié;22
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;INDIVIDUEL;CP007;CH001;Personne en situation de handicap moins de 28 ans;Horaire Indifférencié;12
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;INDIVIDUEL;CP008;CH001;Accompagnateur, accompagnatrice sous condition;Horaire Indifférencié;0
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;ABONNEMENT;CP009;CH001;Carte Adulte;Horaire Indifférencié;30
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;ABONNEMENT;CP010;CH001;Carte Jeune / Tarif moins de 28 ans;Horaire Indifférencié;15
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;ABONNEMENT;CP011;CH001;Carte Famille / Tarif adulte;Horaire Indifférencié;30
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;ABONNEMENT;CP012;CH001;Carte Famille / Tarif moins de 28 ans;Horaire Indifférencié;15
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;GROUPE;CP013;CH002;Collectivités;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;30
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;GROUPE;CP013;CH003;Collectivités;Vendredi & samedi à 20h30;30
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;GROUPE;CP013;CH004;Collectivités;Samedi 14h & dimanche à 20h30;30
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;GROUPE;CP014;CH001;Enseignement (groupes scolaires);Horaire Indifférencié;10
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;GROUPE;CP015;CH001;Formations (groupes enseignants);Horaire Indifférencié;13
+STVC02;STVC;Théâtre du Vieux-Colombier;Strapontin;45;GROUPE;CP016;CH001;Champ médico-social;Horaire Indifférencié;6
+SCST01;SCST;Studio-Théâtre;Non différencié;136;INDIVIDUEL;CP001;CH002;Plein tarif;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;26
+SCST01;SCST;Studio-Théâtre;Non différencié;136;INDIVIDUEL;CP001;CH003;Plein tarif;Vendredi & samedi à 20h30;26
+SCST01;SCST;Studio-Théâtre;Non différencié;136;INDIVIDUEL;CP001;CH004;Plein tarif;Samedi 14h & dimanche à 20h30;26
+SCST01;SCST;Studio-Théâtre;Non différencié;136;INDIVIDUEL;CP002;CH002;Moins de 30 ans + plus de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;26
+SCST01;SCST;Studio-Théâtre;Non différencié;136;INDIVIDUEL;CP002;CH003;Moins de 30 ans + plus de 28 ans;Vendredi & samedi à 20h30;26
+SCST01;SCST;Studio-Théâtre;Non différencié;136;INDIVIDUEL;CP002;CH004;Moins de 30 ans + plus de 28 ans;Samedi 14h & dimanche à 20h30;26
+SCST01;SCST;Studio-Théâtre;Non différencié;136;INDIVIDUEL;CP003;CH002;Moins de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;16
+SCST01;SCST;Studio-Théâtre;Non différencié;136;INDIVIDUEL;CP003;CH003;Moins de 28 ans;Vendredi & samedi à 20h30;16
+SCST01;SCST;Studio-Théâtre;Non différencié;136;INDIVIDUEL;CP003;CH004;Moins de 28 ans;Samedi 14h & dimanche à 20h30;16
+SCST01;SCST;Studio-Théâtre;Non différencié;136;INDIVIDUEL;CP004;CH002;Demandeurs d'emploi;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;16
+SCST01;SCST;Studio-Théâtre;Non différencié;136;INDIVIDUEL;CP004;CH003;Demandeurs d'emploi;Vendredi & samedi à 20h30;16
+SCST01;SCST;Studio-Théâtre;Non différencié;136;INDIVIDUEL;CP004;CH004;Demandeurs d'emploi;Samedi 14h & dimanche à 20h30;16
+SCST01;SCST;Studio-Théâtre;Non différencié;136;INDIVIDUEL;CP005;CH001;Minima Sociaux;Horaire Indifférencié;12
+SCST01;SCST;Studio-Théâtre;Non différencié;136;INDIVIDUEL;CP006;CH001;Personne en situation de handicap adulte;Horaire Indifférencié;20
+SCST01;SCST;Studio-Théâtre;Non différencié;136;INDIVIDUEL;CP007;CH001;Personne en situation de handicap moins de 28 ans;Horaire Indifférencié;10
+SCST01;SCST;Studio-Théâtre;Non différencié;136;INDIVIDUEL;CP008;CH001;Accompagnateur, accompagnatrice sous condition;Horaire Indifférencié;0
+SCST01;SCST;Studio-Théâtre;Non différencié;136;ABONNEMENT;CP009;CH001;Carte Adulte;Horaire Indifférencié;23
+SCST01;SCST;Studio-Théâtre;Non différencié;136;ABONNEMENT;CP010;CH001;Carte Jeune / Tarif moins de 28 ans;Horaire Indifférencié;13
+SCST01;SCST;Studio-Théâtre;Non différencié;136;ABONNEMENT;CP011;CH001;Carte Famille / Tarif adulte;Horaire Indifférencié;23
+SCST01;SCST;Studio-Théâtre;Non différencié;136;ABONNEMENT;CP012;CH001;Carte Famille / Tarif moins de 28 ans;Horaire Indifférencié;13
+SCST01;SCST;Studio-Théâtre;Non différencié;136;GROUPE;CP013;CH002;Collectivités;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;24
+SCST01;SCST;Studio-Théâtre;Non différencié;136;GROUPE;CP013;CH003;Collectivités;Vendredi & samedi à 20h30;24
+SCST01;SCST;Studio-Théâtre;Non différencié;136;GROUPE;CP013;CH004;Collectivités;Samedi 14h & dimanche à 20h30;24
+SCST01;SCST;Studio-Théâtre;Non différencié;136;GROUPE;CP014;CH001;Enseignement (groupes scolaires);Horaire Indifférencié;10
+SCST01;SCST;Studio-Théâtre;Non différencié;136;GROUPE;CP015;CH001;Formations (groupes enseignants);Horaire Indifférencié;13
+SCST01;SCST;Studio-Théâtre;Non différencié;136;GROUPE;CP016;CH001;Champ médico-social;Horaire Indifférencié;6
+STSM01;STSM;Théâtre de la Porte Saint-Martin;A;538;INDIVIDUEL;CP001;CH002;Plein tarif;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;44
+STSM01;STSM;Théâtre de la Porte Saint-Martin;A;538;INDIVIDUEL;CP001;CH003;Plein tarif;Vendredi & samedi à 20h30;44
+STSM01;STSM;Théâtre de la Porte Saint-Martin;A;538;INDIVIDUEL;CP001;CH004;Plein tarif;Samedi 14h & dimanche à 20h30;44
+STSM01;STSM;Théâtre de la Porte Saint-Martin;A;538;INDIVIDUEL;CP002;CH002;Moins de 30 ans + plus de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;44
+STSM01;STSM;Théâtre de la Porte Saint-Martin;A;538;INDIVIDUEL;CP002;CH003;Moins de 30 ans + plus de 28 ans;Vendredi & samedi à 20h30;44
+STSM01;STSM;Théâtre de la Porte Saint-Martin;A;538;INDIVIDUEL;CP002;CH004;Moins de 30 ans + plus de 28 ans;Samedi 14h & dimanche à 20h30;44
+STSM01;STSM;Théâtre de la Porte Saint-Martin;A;538;INDIVIDUEL;CP003;CH002;Moins de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;22
+STSM01;STSM;Théâtre de la Porte Saint-Martin;A;538;INDIVIDUEL;CP003;CH003;Moins de 28 ans;Vendredi & samedi à 20h30;22
+STSM01;STSM;Théâtre de la Porte Saint-Martin;A;538;INDIVIDUEL;CP003;CH004;Moins de 28 ans;Samedi 14h & dimanche à 20h30;22
+STSM01;STSM;Théâtre de la Porte Saint-Martin;A;538;INDIVIDUEL;CP004;CH002;Demandeurs d'emploi;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;24
+STSM01;STSM;Théâtre de la Porte Saint-Martin;A;538;INDIVIDUEL;CP004;CH003;Demandeurs d'emploi;Vendredi & samedi à 20h30;24
+STSM01;STSM;Théâtre de la Porte Saint-Martin;A;538;INDIVIDUEL;CP004;CH004;Demandeurs d'emploi;Samedi 14h & dimanche à 20h30;24
+STSM01;STSM;Théâtre de la Porte Saint-Martin;A;538;INDIVIDUEL;CP005;CH001;Minima Sociaux;Horaire Indifférencié;16
+STSM01;STSM;Théâtre de la Porte Saint-Martin;A;538;INDIVIDUEL;CP006;CH001;Personne en situation de handicap adulte;Horaire Indifférencié;30
+STSM01;STSM;Théâtre de la Porte Saint-Martin;A;538;INDIVIDUEL;CP007;CH001;Personne en situation de handicap moins de 28 ans;Horaire Indifférencié;22
+STSM01;STSM;Théâtre de la Porte Saint-Martin;A;538;INDIVIDUEL;CP008;CH001;Accompagnateur, accompagnatrice sous condition;Horaire Indifférencié;0
+STSM01;STSM;Théâtre de la Porte Saint-Martin;A;538;ABONNEMENT;CP009;CH001;Carte Adulte;Horaire Indifférencié;40
+STSM01;STSM;Théâtre de la Porte Saint-Martin;A;538;ABONNEMENT;CP010;CH001;Carte Jeune / Tarif moins de 28 ans;Horaire Indifférencié;20
+STSM01;STSM;Théâtre de la Porte Saint-Martin;A;538;ABONNEMENT;CP011;CH001;Carte Famille / Tarif adulte;Horaire Indifférencié;40
+STSM01;STSM;Théâtre de la Porte Saint-Martin;A;538;ABONNEMENT;CP012;CH001;Carte Famille / Tarif moins de 28 ans;Horaire Indifférencié;20
+STSM01;STSM;Théâtre de la Porte Saint-Martin;A;538;GROUPE;CP013;CH002;Collectivités;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;42
+STSM01;STSM;Théâtre de la Porte Saint-Martin;A;538;GROUPE;CP013;CH003;Collectivités;Vendredi & samedi à 20h30;42
+STSM01;STSM;Théâtre de la Porte Saint-Martin;A;538;GROUPE;CP013;CH004;Collectivités;Samedi 14h & dimanche à 20h30;42
+STSM02;STSM;Théâtre de la Porte Saint-Martin;B;122;INDIVIDUEL;CP001;CH002;Plein tarif;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;32
+STSM02;STSM;Théâtre de la Porte Saint-Martin;B;122;INDIVIDUEL;CP001;CH003;Plein tarif;Vendredi & samedi à 20h30;32
+STSM02;STSM;Théâtre de la Porte Saint-Martin;B;122;INDIVIDUEL;CP001;CH004;Plein tarif;Samedi 14h & dimanche à 20h30;32
+STSM02;STSM;Théâtre de la Porte Saint-Martin;B;122;INDIVIDUEL;CP002;CH002;Moins de 30 ans + plus de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;32
+STSM02;STSM;Théâtre de la Porte Saint-Martin;B;122;INDIVIDUEL;CP002;CH003;Moins de 30 ans + plus de 28 ans;Vendredi & samedi à 20h30;32
+STSM02;STSM;Théâtre de la Porte Saint-Martin;B;122;INDIVIDUEL;CP002;CH004;Moins de 30 ans + plus de 28 ans;Samedi 14h & dimanche à 20h30;32
+STSM02;STSM;Théâtre de la Porte Saint-Martin;B;122;INDIVIDUEL;CP003;CH002;Moins de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;16
+STSM02;STSM;Théâtre de la Porte Saint-Martin;B;122;INDIVIDUEL;CP003;CH003;Moins de 28 ans;Vendredi & samedi à 20h30;16
+STSM02;STSM;Théâtre de la Porte Saint-Martin;B;122;INDIVIDUEL;CP003;CH004;Moins de 28 ans;Samedi 14h & dimanche à 20h30;16
+STSM02;STSM;Théâtre de la Porte Saint-Martin;B;122;INDIVIDUEL;CP004;CH002;Demandeurs d'emploi;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;18
+STSM02;STSM;Théâtre de la Porte Saint-Martin;B;122;INDIVIDUEL;CP004;CH003;Demandeurs d'emploi;Vendredi & samedi à 20h30;18
+STSM02;STSM;Théâtre de la Porte Saint-Martin;B;122;INDIVIDUEL;CP004;CH004;Demandeurs d'emploi;Samedi 14h & dimanche à 20h30;18
+STSM02;STSM;Théâtre de la Porte Saint-Martin;B;122;INDIVIDUEL;CP005;CH001;Minima Sociaux;Horaire Indifférencié;12
+STSM02;STSM;Théâtre de la Porte Saint-Martin;B;122;INDIVIDUEL;CP006;CH001;Personne en situation de handicap adulte;Horaire Indifférencié;22
+STSM02;STSM;Théâtre de la Porte Saint-Martin;B;122;INDIVIDUEL;CP007;CH001;Personne en situation de handicap moins de 28 ans;Horaire Indifférencié;16
+STSM02;STSM;Théâtre de la Porte Saint-Martin;B;122;INDIVIDUEL;CP008;CH001;Accompagnateur, accompagnatrice sous condition;Horaire Indifférencié;0
+STSM02;STSM;Théâtre de la Porte Saint-Martin;B;122;ABONNEMENT;CP009;CH001;Carte Adulte;Horaire Indifférencié;30
+STSM02;STSM;Théâtre de la Porte Saint-Martin;B;122;ABONNEMENT;CP010;CH001;Carte Jeune / Tarif moins de 28 ans;Horaire Indifférencié;15
+STSM02;STSM;Théâtre de la Porte Saint-Martin;B;122;ABONNEMENT;CP011;CH001;Carte Famille / Tarif adulte;Horaire Indifférencié;30
+STSM02;STSM;Théâtre de la Porte Saint-Martin;B;122;ABONNEMENT;CP012;CH001;Carte Famille / Tarif moins de 28 ans;Horaire Indifférencié;15
+STSM02;STSM;Théâtre de la Porte Saint-Martin;B;122;GROUPE;CP013;CH002;Collectivités;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;30
+STSM02;STSM;Théâtre de la Porte Saint-Martin;B;122;GROUPE;CP013;CH003;Collectivités;Vendredi & samedi à 20h30;30
+STSM02;STSM;Théâtre de la Porte Saint-Martin;B;122;GROUPE;CP013;CH004;Collectivités;Samedi 14h & dimanche à 20h30;30
+STSM02;STSM;Théâtre de la Porte Saint-Martin;B;122;GROUPE;CP014;CH001;Enseignement (groupes scolaires);Horaire Indifférencié;15
+STSM03;STSM;Théâtre de la Porte Saint-Martin;C;216;INDIVIDUEL;CP001;CH002;Plein tarif;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;16
+STSM03;STSM;Théâtre de la Porte Saint-Martin;C;216;INDIVIDUEL;CP001;CH003;Plein tarif;Vendredi & samedi à 20h30;16
+STSM03;STSM;Théâtre de la Porte Saint-Martin;C;216;INDIVIDUEL;CP001;CH004;Plein tarif;Samedi 14h & dimanche à 20h30;16
+STSM03;STSM;Théâtre de la Porte Saint-Martin;C;216;INDIVIDUEL;CP002;CH002;Moins de 30 ans + plus de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;16
+STSM03;STSM;Théâtre de la Porte Saint-Martin;C;216;INDIVIDUEL;CP002;CH003;Moins de 30 ans + plus de 28 ans;Vendredi & samedi à 20h30;16
+STSM03;STSM;Théâtre de la Porte Saint-Martin;C;216;INDIVIDUEL;CP002;CH004;Moins de 30 ans + plus de 28 ans;Samedi 14h & dimanche à 20h30;16
+STSM03;STSM;Théâtre de la Porte Saint-Martin;C;216;INDIVIDUEL;CP003;CH002;Moins de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;10
+STSM03;STSM;Théâtre de la Porte Saint-Martin;C;216;INDIVIDUEL;CP003;CH003;Moins de 28 ans;Vendredi & samedi à 20h30;10
+STSM03;STSM;Théâtre de la Porte Saint-Martin;C;216;INDIVIDUEL;CP003;CH004;Moins de 28 ans;Samedi 14h & dimanche à 20h30;10
+STSM03;STSM;Théâtre de la Porte Saint-Martin;C;216;INDIVIDUEL;CP004;CH002;Demandeurs d'emploi;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;11
+STSM03;STSM;Théâtre de la Porte Saint-Martin;C;216;INDIVIDUEL;CP004;CH003;Demandeurs d'emploi;Vendredi & samedi à 20h30;11
+STSM03;STSM;Théâtre de la Porte Saint-Martin;C;216;INDIVIDUEL;CP004;CH004;Demandeurs d'emploi;Samedi 14h & dimanche à 20h30;11
+STSM03;STSM;Théâtre de la Porte Saint-Martin;C;216;INDIVIDUEL;CP005;CH001;Minima Sociaux;Horaire Indifférencié;6
+STSM03;STSM;Théâtre de la Porte Saint-Martin;C;216;INDIVIDUEL;CP006;CH001;Personne en situation de handicap adulte;Horaire Indifférencié;12
+STSM03;STSM;Théâtre de la Porte Saint-Martin;C;216;INDIVIDUEL;CP007;CH001;Personne en situation de handicap moins de 28 ans;Horaire Indifférencié;10
+STSM03;STSM;Théâtre de la Porte Saint-Martin;C;216;INDIVIDUEL;CP008;CH001;Accompagnateur, accompagnatrice sous condition;Horaire Indifférencié;0
+STSM03;STSM;Théâtre de la Porte Saint-Martin;C;216;ABONNEMENT;CP009;CH001;Carte Adulte;Horaire Indifférencié;15
+STSM03;STSM;Théâtre de la Porte Saint-Martin;C;216;ABONNEMENT;CP010;CH001;Carte Jeune / Tarif moins de 28 ans;Horaire Indifférencié;10
+STSM03;STSM;Théâtre de la Porte Saint-Martin;C;216;ABONNEMENT;CP011;CH001;Carte Famille / Tarif adulte;Horaire Indifférencié;15
+STSM03;STSM;Théâtre de la Porte Saint-Martin;C;216;ABONNEMENT;CP012;CH001;Carte Famille / Tarif moins de 28 ans;Horaire Indifférencié;10
+STSM03;STSM;Théâtre de la Porte Saint-Martin;C;216;GROUPE;CP014;CH001;Enseignement (groupes scolaires);Horaire Indifférencié;10
+STSM03;STSM;Théâtre de la Porte Saint-Martin;C;216;GROUPE;CP015;CH001;Formations (groupes enseignants);Horaire Indifférencié;13
+STSM03;STSM;Théâtre de la Porte Saint-Martin;C;216;GROUPE;CP016;CH001;Champ médico-social;Horaire Indifférencié;6
+STSM04;STSM;Théâtre de la Porte Saint-Martin;D;88;INDIVIDUEL;CP001;CH002;Plein tarif;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;5
+STSM04;STSM;Théâtre de la Porte Saint-Martin;D;88;INDIVIDUEL;CP001;CH003;Plein tarif;Vendredi & samedi à 20h30;5
+STSM04;STSM;Théâtre de la Porte Saint-Martin;D;88;INDIVIDUEL;CP001;CH004;Plein tarif;Samedi 14h & dimanche à 20h30;5
+STSM04;STSM;Théâtre de la Porte Saint-Martin;D;88;INDIVIDUEL;CP002;CH002;Moins de 30 ans + plus de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;5
+STSM04;STSM;Théâtre de la Porte Saint-Martin;D;88;INDIVIDUEL;CP002;CH003;Moins de 30 ans + plus de 28 ans;Vendredi & samedi à 20h30;5
+STSM04;STSM;Théâtre de la Porte Saint-Martin;D;88;INDIVIDUEL;CP002;CH004;Moins de 30 ans + plus de 28 ans;Samedi 14h & dimanche à 20h30;5
+STSM04;STSM;Théâtre de la Porte Saint-Martin;D;88;INDIVIDUEL;CP003;CH002;Moins de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;5
+STSM04;STSM;Théâtre de la Porte Saint-Martin;D;88;INDIVIDUEL;CP003;CH003;Moins de 28 ans;Vendredi & samedi à 20h30;5
+STSM04;STSM;Théâtre de la Porte Saint-Martin;D;88;INDIVIDUEL;CP003;CH004;Moins de 28 ans;Samedi 14h & dimanche à 20h30;5
+STSM04;STSM;Théâtre de la Porte Saint-Martin;D;88;INDIVIDUEL;CP004;CH002;Demandeurs d'emploi;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;5
+STSM04;STSM;Théâtre de la Porte Saint-Martin;D;88;INDIVIDUEL;CP004;CH003;Demandeurs d'emploi;Vendredi & samedi à 20h30;5
+STSM04;STSM;Théâtre de la Porte Saint-Martin;D;88;INDIVIDUEL;CP004;CH004;Demandeurs d'emploi;Samedi 14h & dimanche à 20h30;5
+STSM04;STSM;Théâtre de la Porte Saint-Martin;D;88;INDIVIDUEL;CP005;CH001;Minima Sociaux;Horaire Indifférencié;5
+STSM04;STSM;Théâtre de la Porte Saint-Martin;D;88;INDIVIDUEL;CP006;CH001;Personne en situation de handicap adulte;Horaire Indifférencié;5
+STSM04;STSM;Théâtre de la Porte Saint-Martin;D;88;INDIVIDUEL;CP007;CH001;Personne en situation de handicap moins de 28 ans;Horaire Indifférencié;5
+STSM04;STSM;Théâtre de la Porte Saint-Martin;D;88;INDIVIDUEL;CP008;CH001;Accompagnateur, accompagnatrice sous condition;Horaire Indifférencié;0
+STSM04;STSM;Théâtre de la Porte Saint-Martin;D;88;ABONNEMENT;CP009;CH001;Carte Adulte;Horaire Indifférencié;5
+STSM04;STSM;Théâtre de la Porte Saint-Martin;D;88;ABONNEMENT;CP010;CH001;Carte Jeune / Tarif moins de 28 ans;Horaire Indifférencié;5
+STSM04;STSM;Théâtre de la Porte Saint-Martin;D;88;ABONNEMENT;CP011;CH001;Carte Famille / Tarif adulte;Horaire Indifférencié;5
+STSM04;STSM;Théâtre de la Porte Saint-Martin;D;88;ABONNEMENT;CP012;CH001;Carte Famille / Tarif moins de 28 ans;Horaire Indifférencié;5
+SPSM01;SPSM;Petit Saint-Martin;Non différencié;198;INDIVIDUEL;CP001;CH002;Plein tarif;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;34
+SPSM01;SPSM;Petit Saint-Martin;Non différencié;198;INDIVIDUEL;CP001;CH003;Plein tarif;Vendredi & samedi à 20h30;34
+SPSM01;SPSM;Petit Saint-Martin;Non différencié;198;INDIVIDUEL;CP001;CH004;Plein tarif;Samedi 14h & dimanche à 20h30;34
+SPSM01;SPSM;Petit Saint-Martin;Non différencié;198;INDIVIDUEL;CP002;CH002;Moins de 30 ans + plus de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;34
+SPSM01;SPSM;Petit Saint-Martin;Non différencié;198;INDIVIDUEL;CP002;CH003;Moins de 30 ans + plus de 28 ans;Vendredi & samedi à 20h30;34
+SPSM01;SPSM;Petit Saint-Martin;Non différencié;198;INDIVIDUEL;CP002;CH004;Moins de 30 ans + plus de 28 ans;Samedi 14h & dimanche à 20h30;34
+SPSM01;SPSM;Petit Saint-Martin;Non différencié;198;INDIVIDUEL;CP003;CH002;Moins de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;17
+SPSM01;SPSM;Petit Saint-Martin;Non différencié;198;INDIVIDUEL;CP003;CH003;Moins de 28 ans;Vendredi & samedi à 20h30;17
+SPSM01;SPSM;Petit Saint-Martin;Non différencié;198;INDIVIDUEL;CP003;CH004;Moins de 28 ans;Samedi 14h & dimanche à 20h30;17
+SPSM01;SPSM;Petit Saint-Martin;Non différencié;198;INDIVIDUEL;CP004;CH002;Demandeurs d'emploi;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;17
+SPSM01;SPSM;Petit Saint-Martin;Non différencié;198;INDIVIDUEL;CP004;CH003;Demandeurs d'emploi;Vendredi & samedi à 20h30;17
+SPSM01;SPSM;Petit Saint-Martin;Non différencié;198;INDIVIDUEL;CP004;CH004;Demandeurs d'emploi;Samedi 14h & dimanche à 20h30;17
+SPSM01;SPSM;Petit Saint-Martin;Non différencié;198;INDIVIDUEL;CP005;CH001;Minima Sociaux;Horaire Indifférencié;12
+SPSM01;SPSM;Petit Saint-Martin;Non différencié;198;ABONNEMENT;CP009;CH001;Carte Adulte;Horaire Indifférencié;30
+SPSM01;SPSM;Petit Saint-Martin;Non différencié;198;ABONNEMENT;CP010;CH001;Carte Jeune / Tarif moins de 28 ans;Horaire Indifférencié;15
+SPSM01;SPSM;Petit Saint-Martin;Non différencié;198;ABONNEMENT;CP011;CH001;Carte Famille / Tarif adulte;Horaire Indifférencié;30
+SPSM01;SPSM;Petit Saint-Martin;Non différencié;198;ABONNEMENT;CP012;CH001;Carte Famille / Tarif moins de 28 ans;Horaire Indifférencié;15
+SPSM01;SPSM;Petit Saint-Martin;Non différencié;198;GROUPE;CP013;CH002;Collectivités;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;32
+SPSM01;SPSM;Petit Saint-Martin;Non différencié;198;GROUPE;CP013;CH003;Collectivités;Vendredi & samedi à 20h30;32
+SPSM01;SPSM;Petit Saint-Martin;Non différencié;198;GROUPE;CP013;CH004;Collectivités;Samedi 14h & dimanche à 20h30;32
+SPSM01;SPSM;Petit Saint-Martin;Non différencié;198;GROUPE;CP014;CH001;Enseignement (groupes scolaires);Horaire Indifférencié;10
+SPSM01;SPSM;Petit Saint-Martin;Non différencié;198;GROUPE;CP015;CH001;Formations (groupes enseignants);Horaire Indifférencié;13
+SPSM01;SPSM;Petit Saint-Martin;Non différencié;198;GROUPE;CP016;CH001;Champ médico-social;Horaire Indifférencié;6
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;INDIVIDUEL;CP001;CH002;Plein tarif;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;44
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;INDIVIDUEL;CP001;CH003;Plein tarif;Vendredi & samedi à 20h30;44
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;INDIVIDUEL;CP001;CH004;Plein tarif;Samedi 14h & dimanche à 20h30;44
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;INDIVIDUEL;CP002;CH002;Moins de 30 ans + plus de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;44
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;INDIVIDUEL;CP002;CH003;Moins de 30 ans + plus de 28 ans;Vendredi & samedi à 20h30;44
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;INDIVIDUEL;CP002;CH004;Moins de 30 ans + plus de 28 ans;Samedi 14h & dimanche à 20h30;44
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;INDIVIDUEL;CP003;CH002;Moins de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;22
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;INDIVIDUEL;CP003;CH003;Moins de 28 ans;Vendredi & samedi à 20h30;22
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;INDIVIDUEL;CP003;CH004;Moins de 28 ans;Samedi 14h & dimanche à 20h30;22
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;INDIVIDUEL;CP004;CH002;Demandeurs d'emploi;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;22
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;INDIVIDUEL;CP004;CH003;Demandeurs d'emploi;Vendredi & samedi à 20h30;22
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;INDIVIDUEL;CP004;CH004;Demandeurs d'emploi;Samedi 14h & dimanche à 20h30;22
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;INDIVIDUEL;CP005;CH001;Minima Sociaux;Horaire Indifférencié;16
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;INDIVIDUEL;CP006;CH001;Personne en situation de handicap adulte;Horaire Indifférencié;16
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;INDIVIDUEL;CP007;CH001;Personne en situation de handicap moins de 28 ans;Horaire Indifférencié;16
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;INDIVIDUEL;CP008;CH001;Accompagnateur, accompagnatrice sous condition;Horaire Indifférencié;16
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;ABONNEMENT;CP009;CH001;Carte Adulte;Horaire Indifférencié;40
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;ABONNEMENT;CP010;CH001;Carte Jeune / Tarif moins de 28 ans;Horaire Indifférencié;20
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;ABONNEMENT;CP011;CH001;Carte Famille / Tarif adulte;Horaire Indifférencié;40
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;ABONNEMENT;CP012;CH001;Carte Famille / Tarif moins de 28 ans;Horaire Indifférencié;20
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;GROUPE;CP013;CH002;Collectivités;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;40
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;GROUPE;CP013;CH003;Collectivités;Vendredi & samedi à 20h30;40
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;GROUPE;CP013;CH004;Collectivités;Samedi 14h & dimanche à 20h30;40
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;GROUPE;CP014;CH001;Enseignement (groupes scolaires);Horaire Indifférencié;10
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;GROUPE;CP015;CH001;Formations (groupes enseignants);Horaire Indifférencié;13
+STPP01;STPP;Théâtre du Rond-Point;Non différencié;720;GROUPE;CP016;CH001;Champ médico-social;Horaire Indifférencié;6
+SODE01;SODE;Odéon Théâtre de l’Europe;1;300;INDIVIDUEL;CP001;CH002;Plein tarif;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;44
+SODE01;SODE;Odéon Théâtre de l’Europe;1;300;INDIVIDUEL;CP001;CH003;Plein tarif;Vendredi & samedi à 20h30;44
+SODE01;SODE;Odéon Théâtre de l’Europe;1;300;INDIVIDUEL;CP001;CH004;Plein tarif;Samedi 14h & dimanche à 20h30;44
+SODE01;SODE;Odéon Théâtre de l’Europe;1;300;INDIVIDUEL;CP002;CH002;Moins de 30 ans + plus de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;44
+SODE01;SODE;Odéon Théâtre de l’Europe;1;300;INDIVIDUEL;CP002;CH003;Moins de 30 ans + plus de 28 ans;Vendredi & samedi à 20h30;44
+SODE01;SODE;Odéon Théâtre de l’Europe;1;300;INDIVIDUEL;CP002;CH004;Moins de 30 ans + plus de 28 ans;Samedi 14h & dimanche à 20h30;44
+SODE01;SODE;Odéon Théâtre de l’Europe;1;300;INDIVIDUEL;CP003;CH002;Moins de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;21
+SODE01;SODE;Odéon Théâtre de l’Europe;1;300;INDIVIDUEL;CP003;CH003;Moins de 28 ans;Vendredi & samedi à 20h30;21
+SODE01;SODE;Odéon Théâtre de l’Europe;1;300;INDIVIDUEL;CP003;CH004;Moins de 28 ans;Samedi 14h & dimanche à 20h30;21
+SODE01;SODE;Odéon Théâtre de l’Europe;1;300;INDIVIDUEL;CP004;CH002;Demandeurs d'emploi;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;21
+SODE01;SODE;Odéon Théâtre de l’Europe;1;300;INDIVIDUEL;CP004;CH003;Demandeurs d'emploi;Vendredi & samedi à 20h30;21
+SODE01;SODE;Odéon Théâtre de l’Europe;1;300;INDIVIDUEL;CP004;CH004;Demandeurs d'emploi;Samedi 14h & dimanche à 20h30;21
+SODE01;SODE;Odéon Théâtre de l’Europe;1;300;INDIVIDUEL;CP005;CH001;Minima Sociaux;Horaire Indifférencié;14
+SODE01;SODE;Odéon Théâtre de l’Europe;1;300;INDIVIDUEL;CP006;CH001;Personne en situation de handicap adulte;Horaire Indifférencié;22
+SODE01;SODE;Odéon Théâtre de l’Europe;1;300;INDIVIDUEL;CP007;CH001;Personne en situation de handicap moins de 28 ans;Horaire Indifférencié;22
+SODE01;SODE;Odéon Théâtre de l’Europe;1;300;INDIVIDUEL;CP008;CH001;Accompagnateur, accompagnatrice sous condition;Horaire Indifférencié;22
+SODE01;SODE;Odéon Théâtre de l’Europe;1;300;ABONNEMENT;CP009;CH001;Carte Adulte;Horaire Indifférencié;40
+SODE01;SODE;Odéon Théâtre de l’Europe;1;300;ABONNEMENT;CP010;CH001;Carte Jeune / Tarif moins de 28 ans;Horaire Indifférencié;18
+SODE01;SODE;Odéon Théâtre de l’Europe;1;300;ABONNEMENT;CP011;CH001;Carte Famille / Tarif adulte;Horaire Indifférencié;40
+SODE01;SODE;Odéon Théâtre de l’Europe;1;300;ABONNEMENT;CP012;CH001;Carte Famille / Tarif moins de 28 ans;Horaire Indifférencié;18
+SODE01;SODE;Odéon Théâtre de l’Europe;1;300;GROUPE;CP013;CH002;Collectivités;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;36
+SODE01;SODE;Odéon Théâtre de l’Europe;1;300;GROUPE;CP013;CH003;Collectivités;Vendredi & samedi à 20h30;36
+SODE01;SODE;Odéon Théâtre de l’Europe;1;300;GROUPE;CP013;CH004;Collectivités;Samedi 14h & dimanche à 20h30;36
+SODE02;SODE;Odéon Théâtre de l’Europe;2;170;INDIVIDUEL;CP001;CH002;Plein tarif;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;32
+SODE02;SODE;Odéon Théâtre de l’Europe;2;170;INDIVIDUEL;CP001;CH003;Plein tarif;Vendredi & samedi à 20h30;32
+SODE02;SODE;Odéon Théâtre de l’Europe;2;170;INDIVIDUEL;CP001;CH004;Plein tarif;Samedi 14h & dimanche à 20h30;32
+SODE02;SODE;Odéon Théâtre de l’Europe;2;170;INDIVIDUEL;CP002;CH002;Moins de 30 ans + plus de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;32
+SODE02;SODE;Odéon Théâtre de l’Europe;2;170;INDIVIDUEL;CP002;CH003;Moins de 30 ans + plus de 28 ans;Vendredi & samedi à 20h30;32
+SODE02;SODE;Odéon Théâtre de l’Europe;2;170;INDIVIDUEL;CP002;CH004;Moins de 30 ans + plus de 28 ans;Samedi 14h & dimanche à 20h30;32
+SODE02;SODE;Odéon Théâtre de l’Europe;2;170;INDIVIDUEL;CP003;CH002;Moins de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;15
+SODE02;SODE;Odéon Théâtre de l’Europe;2;170;INDIVIDUEL;CP003;CH003;Moins de 28 ans;Vendredi & samedi à 20h30;15
+SODE02;SODE;Odéon Théâtre de l’Europe;2;170;INDIVIDUEL;CP003;CH004;Moins de 28 ans;Samedi 14h & dimanche à 20h30;15
+SODE02;SODE;Odéon Théâtre de l’Europe;2;170;INDIVIDUEL;CP004;CH002;Demandeurs d'emploi;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;15
+SODE02;SODE;Odéon Théâtre de l’Europe;2;170;INDIVIDUEL;CP004;CH003;Demandeurs d'emploi;Vendredi & samedi à 20h30;15
+SODE02;SODE;Odéon Théâtre de l’Europe;2;170;INDIVIDUEL;CP004;CH004;Demandeurs d'emploi;Samedi 14h & dimanche à 20h30;15
+SODE02;SODE;Odéon Théâtre de l’Europe;2;170;INDIVIDUEL;CP005;CH001;Minima Sociaux;Horaire Indifférencié;10
+SODE02;SODE;Odéon Théâtre de l’Europe;2;170;INDIVIDUEL;CP006;CH001;Personne en situation de handicap adulte;Horaire Indifférencié;18
+SODE02;SODE;Odéon Théâtre de l’Europe;2;170;INDIVIDUEL;CP007;CH001;Personne en situation de handicap moins de 28 ans;Horaire Indifférencié;18
+SODE02;SODE;Odéon Théâtre de l’Europe;2;170;INDIVIDUEL;CP008;CH001;Accompagnateur, accompagnatrice sous condition;Horaire Indifférencié;18
+SODE02;SODE;Odéon Théâtre de l’Europe;2;170;ABONNEMENT;CP009;CH001;Carte Adulte;Horaire Indifférencié;30
+SODE02;SODE;Odéon Théâtre de l’Europe;2;170;ABONNEMENT;CP010;CH001;Carte Jeune / Tarif moins de 28 ans;Horaire Indifférencié;13
+SODE02;SODE;Odéon Théâtre de l’Europe;2;170;ABONNEMENT;CP011;CH001;Carte Famille / Tarif adulte;Horaire Indifférencié;30
+SODE02;SODE;Odéon Théâtre de l’Europe;2;170;ABONNEMENT;CP012;CH001;Carte Famille / Tarif moins de 28 ans;Horaire Indifférencié;13
+SODE02;SODE;Odéon Théâtre de l’Europe;2;170;GROUPE;CP014;CH001;Enseignement (groupes scolaires);Horaire Indifférencié;12
+SODE03;SODE;Odéon Théâtre de l’Europe;3;200;INDIVIDUEL;CP001;CH002;Plein tarif;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;24
+SODE03;SODE;Odéon Théâtre de l’Europe;3;200;INDIVIDUEL;CP001;CH003;Plein tarif;Vendredi & samedi à 20h30;24
+SODE03;SODE;Odéon Théâtre de l’Europe;3;200;INDIVIDUEL;CP001;CH004;Plein tarif;Samedi 14h & dimanche à 20h30;24
+SODE03;SODE;Odéon Théâtre de l’Europe;3;200;INDIVIDUEL;CP002;CH002;Moins de 30 ans + plus de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;24
+SODE03;SODE;Odéon Théâtre de l’Europe;3;200;INDIVIDUEL;CP002;CH003;Moins de 30 ans + plus de 28 ans;Vendredi & samedi à 20h30;24
+SODE03;SODE;Odéon Théâtre de l’Europe;3;200;INDIVIDUEL;CP002;CH004;Moins de 30 ans + plus de 28 ans;Samedi 14h & dimanche à 20h30;24
+SODE03;SODE;Odéon Théâtre de l’Europe;3;200;INDIVIDUEL;CP003;CH002;Moins de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;10
+SODE03;SODE;Odéon Théâtre de l’Europe;3;200;INDIVIDUEL;CP003;CH003;Moins de 28 ans;Vendredi & samedi à 20h30;10
+SODE03;SODE;Odéon Théâtre de l’Europe;3;200;INDIVIDUEL;CP003;CH004;Moins de 28 ans;Samedi 14h & dimanche à 20h30;10
+SODE03;SODE;Odéon Théâtre de l’Europe;3;200;INDIVIDUEL;CP004;CH002;Demandeurs d'emploi;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;10
+SODE03;SODE;Odéon Théâtre de l’Europe;3;200;INDIVIDUEL;CP004;CH003;Demandeurs d'emploi;Vendredi & samedi à 20h30;10
+SODE03;SODE;Odéon Théâtre de l’Europe;3;200;INDIVIDUEL;CP004;CH004;Demandeurs d'emploi;Samedi 14h & dimanche à 20h30;10
+SODE03;SODE;Odéon Théâtre de l’Europe;3;200;INDIVIDUEL;CP005;CH001;Minima Sociaux;Horaire Indifférencié;7
+SODE03;SODE;Odéon Théâtre de l’Europe;3;200;INDIVIDUEL;CP006;CH001;Personne en situation de handicap adulte;Horaire Indifférencié;12
+SODE03;SODE;Odéon Théâtre de l’Europe;3;200;INDIVIDUEL;CP007;CH001;Personne en situation de handicap moins de 28 ans;Horaire Indifférencié;12
+SODE03;SODE;Odéon Théâtre de l’Europe;3;200;INDIVIDUEL;CP008;CH001;Accompagnateur, accompagnatrice sous condition;Horaire Indifférencié;12
+SODE03;SODE;Odéon Théâtre de l’Europe;3;200;ABONNEMENT;CP009;CH001;Carte Adulte;Horaire Indifférencié;15
+SODE03;SODE;Odéon Théâtre de l’Europe;3;200;ABONNEMENT;CP010;CH001;Carte Jeune / Tarif moins de 28 ans;Horaire Indifférencié;8
+SODE03;SODE;Odéon Théâtre de l’Europe;3;200;ABONNEMENT;CP011;CH001;Carte Famille / Tarif adulte;Horaire Indifférencié;15
+SODE03;SODE;Odéon Théâtre de l’Europe;3;200;ABONNEMENT;CP012;CH001;Carte Famille / Tarif moins de 28 ans;Horaire Indifférencié;8
+SODE03;SODE;Odéon Théâtre de l’Europe;3;200;GROUPE;CP014;CH001;Enseignement (groupes scolaires);Horaire Indifférencié;8
+SODE03;SODE;Odéon Théâtre de l’Europe;3;200;GROUPE;CP015;CH001;Formations (groupes enseignants);Horaire Indifférencié;13
+SODE03;SODE;Odéon Théâtre de l’Europe;3;200;GROUPE;CP016;CH001;Champ médico-social;Horaire Indifférencié;8
+SODE04;SODE;Odéon Théâtre de l’Europe;4;100;INDIVIDUEL;CP001;CH002;Plein tarif;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;14
+SODE04;SODE;Odéon Théâtre de l’Europe;4;100;INDIVIDUEL;CP001;CH003;Plein tarif;Vendredi & samedi à 20h30;14
+SODE04;SODE;Odéon Théâtre de l’Europe;4;100;INDIVIDUEL;CP001;CH004;Plein tarif;Samedi 14h & dimanche à 20h30;14
+SODE04;SODE;Odéon Théâtre de l’Europe;4;100;INDIVIDUEL;CP002;CH002;Moins de 30 ans + plus de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;14
+SODE04;SODE;Odéon Théâtre de l’Europe;4;100;INDIVIDUEL;CP002;CH003;Moins de 30 ans + plus de 28 ans;Vendredi & samedi à 20h30;14
+SODE04;SODE;Odéon Théâtre de l’Europe;4;100;INDIVIDUEL;CP002;CH004;Moins de 30 ans + plus de 28 ans;Samedi 14h & dimanche à 20h30;14
+SODE04;SODE;Odéon Théâtre de l’Europe;4;100;INDIVIDUEL;CP003;CH002;Moins de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;7
+SODE04;SODE;Odéon Théâtre de l’Europe;4;100;INDIVIDUEL;CP003;CH003;Moins de 28 ans;Vendredi & samedi à 20h30;7
+SODE04;SODE;Odéon Théâtre de l’Europe;4;100;INDIVIDUEL;CP003;CH004;Moins de 28 ans;Samedi 14h & dimanche à 20h30;7
+SODE04;SODE;Odéon Théâtre de l’Europe;4;100;INDIVIDUEL;CP004;CH002;Demandeurs d'emploi;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;7
+SODE04;SODE;Odéon Théâtre de l’Europe;4;100;INDIVIDUEL;CP004;CH003;Demandeurs d'emploi;Vendredi & samedi à 20h30;7
+SODE04;SODE;Odéon Théâtre de l’Europe;4;100;INDIVIDUEL;CP004;CH004;Demandeurs d'emploi;Samedi 14h & dimanche à 20h30;7
+SODE04;SODE;Odéon Théâtre de l’Europe;4;100;INDIVIDUEL;CP005;CH001;Minima Sociaux;Horaire Indifférencié;6
+SODE04;SODE;Odéon Théâtre de l’Europe;4;100;INDIVIDUEL;CP006;CH001;Personne en situation de handicap adulte;Horaire Indifférencié;8
+SODE04;SODE;Odéon Théâtre de l’Europe;4;100;INDIVIDUEL;CP007;CH001;Personne en situation de handicap moins de 28 ans;Horaire Indifférencié;8
+SODE04;SODE;Odéon Théâtre de l’Europe;4;100;INDIVIDUEL;CP008;CH001;Accompagnateur, accompagnatrice sous condition;Horaire Indifférencié;8
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;INDIVIDUEL;CP001;CH002;Plein tarif;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;44
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;INDIVIDUEL;CP001;CH003;Plein tarif;Vendredi & samedi à 20h30;44
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;INDIVIDUEL;CP001;CH004;Plein tarif;Samedi 14h & dimanche à 20h30;44
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;INDIVIDUEL;CP002;CH002;Moins de 30 ans + plus de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;20
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;INDIVIDUEL;CP002;CH003;Moins de 30 ans + plus de 28 ans;Vendredi & samedi à 20h30;20
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;INDIVIDUEL;CP002;CH004;Moins de 30 ans + plus de 28 ans;Samedi 14h & dimanche à 20h30;20
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;INDIVIDUEL;CP003;CH002;Moins de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;20
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;INDIVIDUEL;CP003;CH003;Moins de 28 ans;Vendredi & samedi à 20h30;20
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;INDIVIDUEL;CP003;CH004;Moins de 28 ans;Samedi 14h & dimanche à 20h30;20
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;INDIVIDUEL;CP004;CH002;Demandeurs d'emploi;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;24
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;INDIVIDUEL;CP004;CH003;Demandeurs d'emploi;Vendredi & samedi à 20h30;24
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;INDIVIDUEL;CP004;CH004;Demandeurs d'emploi;Samedi 14h & dimanche à 20h30;24
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;INDIVIDUEL;CP005;CH001;Minima Sociaux;Horaire Indifférencié;16
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;INDIVIDUEL;CP006;CH001;Personne en situation de handicap adulte;Horaire Indifférencié;16
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;INDIVIDUEL;CP007;CH001;Personne en situation de handicap moins de 28 ans;Horaire Indifférencié;16
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;INDIVIDUEL;CP008;CH001;Accompagnateur, accompagnatrice sous condition;Horaire Indifférencié;16
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;ABONNEMENT;CP009;CH001;Carte Adulte;Horaire Indifférencié;40
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;ABONNEMENT;CP010;CH001;Carte Jeune / Tarif moins de 28 ans;Horaire Indifférencié;18
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;ABONNEMENT;CP011;CH001;Carte Famille / Tarif adulte;Horaire Indifférencié;40
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;ABONNEMENT;CP012;CH001;Carte Famille / Tarif moins de 28 ans;Horaire Indifférencié;18
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;GROUPE;CP013;CH002;Collectivités;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;40
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;GROUPE;CP013;CH003;Collectivités;Vendredi & samedi à 20h30;40
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;GROUPE;CP013;CH004;Collectivités;Samedi 14h & dimanche à 20h30;40
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;GROUPE;CP014;CH001;Enseignement (groupes scolaires);Horaire Indifférencié;15
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;GROUPE;CP015;CH001;Formations (groupes enseignants);Horaire Indifférencié;13
+STNA01;STNA;Théâtre Nanterre-Amandiers;Non différencié;782;GROUPE;CP016;CH001;Champ médico-social;Horaire Indifférencié;6
+SATR01;SATR;13e art;A;358;INDIVIDUEL;CP001;CH002;Plein tarif;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;44
+SATR01;SATR;13e art;A;358;INDIVIDUEL;CP001;CH003;Plein tarif;Vendredi & samedi à 20h30;44
+SATR01;SATR;13e art;A;358;INDIVIDUEL;CP001;CH004;Plein tarif;Samedi 14h & dimanche à 20h30;44
+SATR01;SATR;13e art;A;358;INDIVIDUEL;CP002;CH002;Moins de 30 ans + plus de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;44
+SATR01;SATR;13e art;A;358;INDIVIDUEL;CP002;CH003;Moins de 30 ans + plus de 28 ans;Vendredi & samedi à 20h30;44
+SATR01;SATR;13e art;A;358;INDIVIDUEL;CP002;CH004;Moins de 30 ans + plus de 28 ans;Samedi 14h & dimanche à 20h30;44
+SATR01;SATR;13e art;A;358;INDIVIDUEL;CP003;CH002;Moins de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;22
+SATR01;SATR;13e art;A;358;INDIVIDUEL;CP003;CH003;Moins de 28 ans;Vendredi & samedi à 20h30;22
+SATR01;SATR;13e art;A;358;INDIVIDUEL;CP003;CH004;Moins de 28 ans;Samedi 14h & dimanche à 20h30;22
+SATR01;SATR;13e art;A;358;INDIVIDUEL;CP004;CH002;Demandeurs d'emploi;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;24
+SATR01;SATR;13e art;A;358;INDIVIDUEL;CP004;CH003;Demandeurs d'emploi;Vendredi & samedi à 20h30;24
+SATR01;SATR;13e art;A;358;INDIVIDUEL;CP004;CH004;Demandeurs d'emploi;Samedi 14h & dimanche à 20h30;24
+SATR01;SATR;13e art;A;358;INDIVIDUEL;CP005;CH001;Minima Sociaux;Horaire Indifférencié;16
+SATR01;SATR;13e art;A;358;INDIVIDUEL;CP006;CH001;Personne en situation de handicap adulte;Horaire Indifférencié;30
+SATR01;SATR;13e art;A;358;INDIVIDUEL;CP007;CH001;Personne en situation de handicap moins de 28 ans;Horaire Indifférencié;22
+SATR01;SATR;13e art;A;358;INDIVIDUEL;CP008;CH001;Accompagnateur, accompagnatrice sous condition;Horaire Indifférencié;0
+SATR01;SATR;13e art;A;358;ABONNEMENT;CP009;CH001;Carte Adulte;Horaire Indifférencié;40
+SATR01;SATR;13e art;A;358;ABONNEMENT;CP010;CH001;Carte Jeune / Tarif moins de 28 ans;Horaire Indifférencié;20
+SATR01;SATR;13e art;A;358;ABONNEMENT;CP011;CH001;Carte Famille / Tarif adulte;Horaire Indifférencié;40
+SATR01;SATR;13e art;A;358;ABONNEMENT;CP012;CH001;Carte Famille / Tarif moins de 28 ans;Horaire Indifférencié;20
+SATR01;SATR;13e art;A;358;GROUPE;CP013;CH002;Collectivités;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;42
+SATR01;SATR;13e art;A;358;GROUPE;CP013;CH003;Collectivités;Vendredi & samedi à 20h30;42
+SATR01;SATR;13e art;A;358;GROUPE;CP013;CH004;Collectivités;Samedi 14h & dimanche à 20h30;42
+SATR02;SATR;13e art;B;180;INDIVIDUEL;CP001;CH002;Plein tarif;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;32
+SATR02;SATR;13e art;B;180;INDIVIDUEL;CP001;CH003;Plein tarif;Vendredi & samedi à 20h30;32
+SATR02;SATR;13e art;B;180;INDIVIDUEL;CP001;CH004;Plein tarif;Samedi 14h & dimanche à 20h30;32
+SATR02;SATR;13e art;B;180;INDIVIDUEL;CP002;CH002;Moins de 30 ans + plus de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;32
+SATR02;SATR;13e art;B;180;INDIVIDUEL;CP002;CH003;Moins de 30 ans + plus de 28 ans;Vendredi & samedi à 20h30;32
+SATR02;SATR;13e art;B;180;INDIVIDUEL;CP002;CH004;Moins de 30 ans + plus de 28 ans;Samedi 14h & dimanche à 20h30;32
+SATR02;SATR;13e art;B;180;INDIVIDUEL;CP003;CH002;Moins de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;16
+SATR02;SATR;13e art;B;180;INDIVIDUEL;CP003;CH003;Moins de 28 ans;Vendredi & samedi à 20h30;16
+SATR02;SATR;13e art;B;180;INDIVIDUEL;CP003;CH004;Moins de 28 ans;Samedi 14h & dimanche à 20h30;16
+SATR02;SATR;13e art;B;180;INDIVIDUEL;CP004;CH002;Demandeurs d'emploi;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;18
+SATR02;SATR;13e art;B;180;INDIVIDUEL;CP004;CH003;Demandeurs d'emploi;Vendredi & samedi à 20h30;18
+SATR02;SATR;13e art;B;180;INDIVIDUEL;CP004;CH004;Demandeurs d'emploi;Samedi 14h & dimanche à 20h30;18
+SATR02;SATR;13e art;B;180;INDIVIDUEL;CP005;CH001;Minima Sociaux;Horaire Indifférencié;12
+SATR02;SATR;13e art;B;180;INDIVIDUEL;CP006;CH001;Personne en situation de handicap adulte;Horaire Indifférencié;22
+SATR02;SATR;13e art;B;180;INDIVIDUEL;CP007;CH001;Personne en situation de handicap moins de 28 ans;Horaire Indifférencié;16
+SATR02;SATR;13e art;B;180;INDIVIDUEL;CP008;CH001;Accompagnateur, accompagnatrice sous condition;Horaire Indifférencié;0
+SATR02;SATR;13e art;B;180;ABONNEMENT;CP009;CH001;Carte Adulte;Horaire Indifférencié;30
+SATR02;SATR;13e art;B;180;ABONNEMENT;CP010;CH001;Carte Jeune / Tarif moins de 28 ans;Horaire Indifférencié;15
+SATR02;SATR;13e art;B;180;ABONNEMENT;CP011;CH001;Carte Famille / Tarif adulte;Horaire Indifférencié;30
+SATR02;SATR;13e art;B;180;ABONNEMENT;CP012;CH001;Carte Famille / Tarif moins de 28 ans;Horaire Indifférencié;15
+SATR02;SATR;13e art;B;180;GROUPE;CP013;CH002;Collectivités;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;30
+SATR02;SATR;13e art;B;180;GROUPE;CP013;CH003;Collectivités;Vendredi & samedi à 20h30;30
+SATR02;SATR;13e art;B;180;GROUPE;CP013;CH004;Collectivités;Samedi 14h & dimanche à 20h30;30
+SATR02;SATR;13e art;B;180;GROUPE;CP014;CH001;Enseignement (groupes scolaires);Horaire Indifférencié;15
+SATR03;SATR;13e art;C;320;INDIVIDUEL;CP001;CH002;Plein tarif;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;16
+SATR03;SATR;13e art;C;320;INDIVIDUEL;CP001;CH003;Plein tarif;Vendredi & samedi à 20h30;16
+SATR03;SATR;13e art;C;320;INDIVIDUEL;CP001;CH004;Plein tarif;Samedi 14h & dimanche à 20h30;16
+SATR03;SATR;13e art;C;320;INDIVIDUEL;CP002;CH002;Moins de 30 ans + plus de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;16
+SATR03;SATR;13e art;C;320;INDIVIDUEL;CP002;CH003;Moins de 30 ans + plus de 28 ans;Vendredi & samedi à 20h30;16
+SATR03;SATR;13e art;C;320;INDIVIDUEL;CP002;CH004;Moins de 30 ans + plus de 28 ans;Samedi 14h & dimanche à 20h30;16
+SATR03;SATR;13e art;C;320;INDIVIDUEL;CP003;CH002;Moins de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;10
+SATR03;SATR;13e art;C;320;INDIVIDUEL;CP003;CH003;Moins de 28 ans;Vendredi & samedi à 20h30;10
+SATR03;SATR;13e art;C;320;INDIVIDUEL;CP003;CH004;Moins de 28 ans;Samedi 14h & dimanche à 20h30;10
+SATR03;SATR;13e art;C;320;INDIVIDUEL;CP004;CH002;Demandeurs d'emploi;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;11
+SATR03;SATR;13e art;C;320;INDIVIDUEL;CP004;CH003;Demandeurs d'emploi;Vendredi & samedi à 20h30;11
+SATR03;SATR;13e art;C;320;INDIVIDUEL;CP004;CH004;Demandeurs d'emploi;Samedi 14h & dimanche à 20h30;11
+SATR03;SATR;13e art;C;320;INDIVIDUEL;CP005;CH001;Minima Sociaux;Horaire Indifférencié;6
+SATR03;SATR;13e art;C;320;INDIVIDUEL;CP006;CH001;Personne en situation de handicap adulte;Horaire Indifférencié;12
+SATR03;SATR;13e art;C;320;INDIVIDUEL;CP007;CH001;Personne en situation de handicap moins de 28 ans;Horaire Indifférencié;10
+SATR03;SATR;13e art;C;320;INDIVIDUEL;CP008;CH001;Accompagnateur, accompagnatrice sous condition;Horaire Indifférencié;0
+SATR03;SATR;13e art;C;320;ABONNEMENT;CP009;CH001;Carte Adulte;Horaire Indifférencié;15
+SATR03;SATR;13e art;C;320;ABONNEMENT;CP010;CH001;Carte Jeune / Tarif moins de 28 ans;Horaire Indifférencié;10
+SATR03;SATR;13e art;C;320;ABONNEMENT;CP011;CH001;Carte Famille / Tarif adulte;Horaire Indifférencié;15
+SATR03;SATR;13e art;C;320;ABONNEMENT;CP012;CH001;Carte Famille / Tarif moins de 28 ans;Horaire Indifférencié;10
+SATR03;SATR;13e art;C;320;GROUPE;CP014;CH001;Enseignement (groupes scolaires);Horaire Indifférencié;10
+SATR03;SATR;13e art;C;320;GROUPE;CP015;CH001;Formations (groupes enseignants);Horaire Indifférencié;13
+SATR03;SATR;13e art;C;320;GROUPE;CP016;CH001;Champ médico-social;Horaire Indifférencié;6
+SGHV01;SGHV;Grande Halle de La Villette;1;880;INDIVIDUEL;CP001;CH002;Plein tarif;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;45
+SGHV01;SGHV;Grande Halle de La Villette;1;880;INDIVIDUEL;CP001;CH003;Plein tarif;Vendredi & samedi à 20h30;45
+SGHV01;SGHV;Grande Halle de La Villette;1;880;INDIVIDUEL;CP001;CH004;Plein tarif;Samedi 14h & dimanche à 20h30;45
+SGHV01;SGHV;Grande Halle de La Villette;1;880;INDIVIDUEL;CP002;CH002;Moins de 30 ans + plus de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;45
+SGHV01;SGHV;Grande Halle de La Villette;1;880;INDIVIDUEL;CP002;CH003;Moins de 30 ans + plus de 28 ans;Vendredi & samedi à 20h30;45
+SGHV01;SGHV;Grande Halle de La Villette;1;880;INDIVIDUEL;CP002;CH004;Moins de 30 ans + plus de 28 ans;Samedi 14h & dimanche à 20h30;45
+SGHV01;SGHV;Grande Halle de La Villette;1;880;INDIVIDUEL;CP003;CH002;Moins de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;25
+SGHV01;SGHV;Grande Halle de La Villette;1;880;INDIVIDUEL;CP003;CH003;Moins de 28 ans;Vendredi & samedi à 20h30;25
+SGHV01;SGHV;Grande Halle de La Villette;1;880;INDIVIDUEL;CP003;CH004;Moins de 28 ans;Samedi 14h & dimanche à 20h30;25
+SGHV01;SGHV;Grande Halle de La Villette;1;880;INDIVIDUEL;CP004;CH002;Demandeurs d'emploi;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;25
+SGHV01;SGHV;Grande Halle de La Villette;1;880;INDIVIDUEL;CP004;CH003;Demandeurs d'emploi;Vendredi & samedi à 20h30;25
+SGHV01;SGHV;Grande Halle de La Villette;1;880;INDIVIDUEL;CP004;CH004;Demandeurs d'emploi;Samedi 14h & dimanche à 20h30;25
+SGHV01;SGHV;Grande Halle de La Villette;1;880;INDIVIDUEL;CP005;CH001;Minima Sociaux;Horaire Indifférencié;15
+SGHV01;SGHV;Grande Halle de La Villette;1;880;INDIVIDUEL;CP006;CH001;Personne en situation de handicap adulte;Horaire Indifférencié;25
+SGHV01;SGHV;Grande Halle de La Villette;1;880;INDIVIDUEL;CP007;CH001;Personne en situation de handicap moins de 28 ans;Horaire Indifférencié;25
+SGHV01;SGHV;Grande Halle de La Villette;1;880;INDIVIDUEL;CP008;CH001;Accompagnateur, accompagnatrice sous condition;Horaire Indifférencié;25
+SGHV01;SGHV;Grande Halle de La Villette;1;880;ABONNEMENT;CP009;CH001;Carte Adulte;Horaire Indifférencié;40
+SGHV01;SGHV;Grande Halle de La Villette;1;880;ABONNEMENT;CP010;CH001;Carte Jeune / Tarif moins de 28 ans;Horaire Indifférencié;20
+SGHV01;SGHV;Grande Halle de La Villette;1;880;ABONNEMENT;CP011;CH001;Carte Famille / Tarif adulte;Horaire Indifférencié;40
+SGHV01;SGHV;Grande Halle de La Villette;1;880;ABONNEMENT;CP012;CH001;Carte Famille / Tarif moins de 28 ans;Horaire Indifférencié;20
+SGHV01;SGHV;Grande Halle de La Villette;1;880;GROUPE;CP013;CH002;Collectivités;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;35
+SGHV01;SGHV;Grande Halle de La Villette;1;880;GROUPE;CP013;CH003;Collectivités;Vendredi & samedi à 20h30;35
+SGHV01;SGHV;Grande Halle de La Villette;1;880;GROUPE;CP013;CH004;Collectivités;Samedi 14h & dimanche à 20h30;35
+SGHV01;SGHV;Grande Halle de La Villette;1;880;GROUPE;CP014;CH001;Enseignement (groupes scolaires);Horaire Indifférencié;15
+SGHV02;SGHV;Grande Halle de La Villette;2;520;INDIVIDUEL;CP001;CH002;Plein tarif;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;30
+SGHV02;SGHV;Grande Halle de La Villette;2;520;INDIVIDUEL;CP001;CH003;Plein tarif;Vendredi & samedi à 20h30;30
+SGHV02;SGHV;Grande Halle de La Villette;2;520;INDIVIDUEL;CP001;CH004;Plein tarif;Samedi 14h & dimanche à 20h30;30
+SGHV02;SGHV;Grande Halle de La Villette;2;520;INDIVIDUEL;CP002;CH002;Moins de 30 ans + plus de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;30
+SGHV02;SGHV;Grande Halle de La Villette;2;520;INDIVIDUEL;CP002;CH003;Moins de 30 ans + plus de 28 ans;Vendredi & samedi à 20h30;30
+SGHV02;SGHV;Grande Halle de La Villette;2;520;INDIVIDUEL;CP002;CH004;Moins de 30 ans + plus de 28 ans;Samedi 14h & dimanche à 20h30;30
+SGHV02;SGHV;Grande Halle de La Villette;2;520;INDIVIDUEL;CP003;CH002;Moins de 28 ans;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;15
+SGHV02;SGHV;Grande Halle de La Villette;2;520;INDIVIDUEL;CP003;CH003;Moins de 28 ans;Vendredi & samedi à 20h30;15
+SGHV02;SGHV;Grande Halle de La Villette;2;520;INDIVIDUEL;CP003;CH004;Moins de 28 ans;Samedi 14h & dimanche à 20h30;15
+SGHV02;SGHV;Grande Halle de La Villette;2;520;INDIVIDUEL;CP004;CH002;Demandeurs d'emploi;Lundi, mardi, mercredi, jeudi à 20h30 & dimanche à 14h;15
+SGHV02;SGHV;Grande Halle de La Villette;2;520;INDIVIDUEL;CP004;CH003;Demandeurs d'emploi;Vendredi & samedi à 20h30;15
+SGHV02;SGHV;Grande Halle de La Villette;2;520;INDIVIDUEL;CP004;CH004;Demandeurs d'emploi;Samedi 14h & dimanche à 20h30;15
+SGHV02;SGHV;Grande Halle de La Villette;2;520;INDIVIDUEL;CP005;CH001;Minima Sociaux;Horaire Indifférencié;10
+SGHV02;SGHV;Grande Halle de La Villette;2;520;INDIVIDUEL;CP006;CH001;Personne en situation de handicap adulte;Horaire Indifférencié;15
+SGHV02;SGHV;Grande Halle de La Villette;2;520;INDIVIDUEL;CP007;CH001;Personne en situation de handicap moins de 28 ans;Horaire Indifférencié;15
+SGHV02;SGHV;Grande Halle de La Villette;2;520;INDIVIDUEL;CP008;CH001;Accompagnateur, accompagnatrice sous condition;Horaire Indifférencié;15
+SGHV02;SGHV;Grande Halle de La Villette;2;520;ABONNEMENT;CP009;CH001;Carte Adulte;Horaire Indifférencié;20
+SGHV02;SGHV;Grande Halle de La Villette;2;520;ABONNEMENT;CP010;CH001;Carte Jeune / Tarif moins de 28 ans;Horaire Indifférencié;10
+SGHV02;SGHV;Grande Halle de La Villette;2;520;ABONNEMENT;CP011;CH001;Carte Famille / Tarif adulte;Horaire Indifférencié;20
+SGHV02;SGHV;Grande Halle de La Villette;2;520;ABONNEMENT;CP012;CH001;Carte Famille / Tarif moins de 28 ans;Horaire Indifférencié;10
+SGHV02;SGHV;Grande Halle de La Villette;2;520;GROUPE;CP014;CH001;Enseignement (groupes scolaires);Horaire Indifférencié;13
+SGHV02;SGHV;Grande Halle de La Villette;2;520;GROUPE;CP015;CH001;Formations (groupes enseignants);Horaire Indifférencié;10
+SGHV02;SGHV;Grande Halle de La Villette;2;520;GROUPE;CP016;CH001;Champ médico-social;Horaire Indifférencié;13

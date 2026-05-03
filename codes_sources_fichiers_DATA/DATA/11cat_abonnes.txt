@@ -1,0 +1,4 @@
+id_cat_abonne;nom_cat_abonne
+AA;Adulte
+AJ;Jeune
+AF;Famille

@@ -1,0 +1,4 @@
+id_compte;droit_compte;mdp_hache;nom;prenom;email;tel
+yuan_pise;admin;adminpise;Ding;Yuan;yuan.d@outlook.fr;0748440231
+amira_pise;utilisateur;userpise;Kairouani;Amira;amirakairouani22@gmail.com;
+jeanmichel_pise;abonne;abonnepise;Lery;Jean-Michel;jeanmichel.lery@gmail.com;
